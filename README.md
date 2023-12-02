@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Online Computer Science Text Tutor and Hobbyist Programmer
 ----------------------------------------------------------
 
-I've been a Tutor in CS for 2 years. I've started developing web apps way back in 2016 to aid me in automating some tasks in my regular day job.
+I've been a Tutor in CS for since 2021. I've started developing web apps way back in 2016 to aid me in automating some tasks in my regular day job.
 
 * 🌍  I'm based in Cavite, Philippines
 * ✉️  You can contact me at [ferdiebergado@gmail.com](mailto:ferdiebergado@gmail.com)
